@@ -1,7 +1,7 @@
 ### Hello! I'm Magnus - aka [MagnusHJensen][website]
 
 ## I'm a newly graduate and free time developer.
-- I'm currently focused on Java and the development of SWEM
+- I'm currently focused on Java and the development of [SWEM]
 - 🖥️ I'm currently looking for open source projects to contribute to.
 - 🥅 2020 Goals: Make undergoing changes to my application, that I began working on.
 - ⚡ Fun Fact: I love to play drums, and solve math problems.
@@ -25,3 +25,4 @@
 [website]: https://magnusjensen.dk
 [twitter]: https://twitter.com/TheMagnusJensen
 [linkedin]: https://www.linkedin.com/in/magnus-jensen-a92588151/
+[SWEM]: https://discord.gg/X5vqhtX
