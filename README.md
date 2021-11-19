@@ -1,6 +1,6 @@
 ### Hello! I'm Magnus - aka [MagnusHJensen][website]
 
-## I'm a newly graduate and free time developer.
+## I'm currently studying for a BEng in Software Technology.
 - I'm currently focused on Java and the development of [SWEM]
 - 🖥️ I'm currently looking for open source projects to contribute to.
 - 🥅 2021 Goals: Release SWEM.
