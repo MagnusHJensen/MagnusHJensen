@@ -1,4 +1,5 @@
 ### Hello! I'm Magnus - aka [MagnusHJensen][website]
+### I'm a Student Software Engineer @ LEGO
 
 ## I'm currently studying for a BEng in Software Technology.
 - I'm currently focused on Java and the development of [SWEM]
