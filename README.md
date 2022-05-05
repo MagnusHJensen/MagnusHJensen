@@ -5,7 +5,7 @@
 - I'm currently focused on Java and the development of [SWEM]
 - 🖥️ I'm currently looking for open source projects to contribute to.
 - 🥅 2022 Goals: Release SWEM.
-- ⚡ Fun Fact: I love to play drums, and solve math problems.
+- ⚡ Fun Fact: I love to solve math problems and used to play drums.
 
 ### Connect with me:
 
