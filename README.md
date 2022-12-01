@@ -4,8 +4,8 @@
 ## I'm currently studying for a BEng in Software Technology.
 - I'm currently focused on Java and the development of [SWEM]
 - 🖥️ I'm currently looking for open source projects to contribute to.
-- 🥅 2022 Goals: Release SWEM.
-- ⚡ Fun Fact: I love to solve math problems and used to play drums.
+- 🥅 ~~2022 Goals: Release SWEM.~~
+- ⚡ Fun Fact: I used to play drums.
 
 ### Connect with me:
 
