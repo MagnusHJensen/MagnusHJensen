@@ -1,4 +1,4 @@
-### Hello! I'm Magnus - aka [MagnusHJensen][website]
+### Hello! I'm Magnus
 ### I'm a Student Software Engineer @ LEGO Group
 
 ### I'm currently studying for a BEng in Software Technology.
