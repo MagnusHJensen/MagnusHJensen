@@ -1,11 +1,7 @@
 ### Hello! I'm Magnus - aka [MagnusHJensen][website]
 ### I'm a Student Software Engineer @ LEGO Group
 
-## I'm currently studying for a BEng in Software Technology.
-- I'm currently focused on Java and the development of [SWEM]
-- 🖥️ I'm currently looking for open source projects to contribute to.
-- 🥅 ~~2022 Goals: Release SWEM.~~
-- ⚡ Fun Fact: I used to play drums.
+### I'm currently studying for a BEng in Software Technology.
 
 ### Connect with me:
 
