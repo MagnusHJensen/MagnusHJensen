@@ -1,5 +1,5 @@
 ### Hello! I'm Magnus aka legenden
-### I'm a Student Software Engineer @ LEGO Group
+### I'm a Student Software Engineer @ the LEGO Group
 
 ### I'm currently studying for a BEng in Software Technology.
 
